@@ -1,0 +1,9 @@
+{
+	"name": "albarranfactory",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "20f6715b-2811-49b5-b9f3-9d2d53cbdbe6",
+		"tenantId": "72fd0b5a-8a6a-4cff-89f6-bde961f7e250"
+	}
+}
